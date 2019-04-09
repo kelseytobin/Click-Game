@@ -1,8 +1,8 @@
 import React from "react";
-import HelloTest from "./components/HelloTest";
+import NavBar from "./components/NavBar/Navbar";
 
 function App() {
-  return <HelloTest />;
+  return <NavBar />;
 }
 
 
