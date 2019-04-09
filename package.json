@@ -2,7 +2,7 @@
   "name": "clickgame",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/kelseytobin/Click-Game",
+  "homepage": "https://kelseytobin.github.io/Click-Game/",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
