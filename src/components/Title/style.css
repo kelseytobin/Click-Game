@@ -1,7 +1,18 @@
-.titleContent {
+header {
     display: flex;
     justify-content: center;
     align-items: center;
     background-image: url("../../images/books.jpg");
-    background-size: cover;
+    background-repeat: repeat;
+    background-size: contain;
+    /* position: fixed; */
+    min-height: 400px;
+}
+
+h1, h2 {
+    text-align: center;
+    font-family:'Pacifico', cursive;
+    color: whitesmoke;
+    text-shadow: 1px 1px 2px black, 0 0 25px gray, 0 0 5px darkgreen;
+    
 }

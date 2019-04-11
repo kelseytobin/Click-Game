@@ -1,0 +1,9 @@
+nav {
+    background-color: rgb(235, 229, 199);
+    
+}
+
+nav .brand-logo {
+    color: black;
+    font-family:'Pacifico', cursive;
+}

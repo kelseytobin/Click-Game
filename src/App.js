@@ -11,10 +11,10 @@ class App extends Component {
 
         <NavBar />
         
-        <div>
+        
           <Title />
         
-        </div>
+      
        
        
         </React.Fragment>
