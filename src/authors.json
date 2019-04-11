@@ -2,35 +2,35 @@
   {
     "id": 1,
     "name":"Mark Twain",
-    "image":"https://en.wikipedia.org/wiki/Mark_Twain#/media/File:Twain1909.jpg",
+    "image":"https://jamesostafford.files.wordpress.com/2013/12/mark-twain.jpg",
     "books": "The Adventures of Huckleberry Finn"
 },
 
 {
     "id": 2,
     "name":"Dr. Seuss",
-    "image":"https://en.wikipedia.org/wiki/Dr._Seuss#/media/File:Ted_Geisel_NYWTS_2_crop.jpg",
+    "image":"https://fatgirlinthefitnessworld.files.wordpress.com/2012/03/dr-seuss-himself.jpg",
     "books": "The Cat in the Hat"
 },
 
 {
     "id": 3,
     "name":"Louise May Alcott",
-    "image":"https://en.wikipedia.org/wiki/Louisa_May_Alcott#/media/File:Louisa_May_Alcott_headshot.jpg",
+    "image":"https://imgix.ranker.com/node_img/74/1475687/original/louisa-may-alcott-writers-photo-1?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg",
     "books": "Little Women"
 },
 
 {
     "id": 4,
     "name":"James Baldwin",
-    "image":"https://en.wikipedia.org/wiki/James_Baldwin#/media/File:James_Baldwin_37_Allan_Warren_(cropped).jpg",
+    "image":"https://imgix.ranker.com/node_img/63/1259272/original/james-baldwin-writers-photo-1?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg",
     "books": "Go Tell It on the Mountain"
 },
 
 {
     "id": 5,
     "name":"John Steinbeck",
-    "image":"https://en.wikipedia.org/wiki/John_Steinbeck#/media/File:John_Steinbeck_1962.jpg",
+    "image":"https://imgix.ranker.com/node_img/66/1314875/original/john-steinbeck-writers-photo-1?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg",
     "books": "To A God Unknown"
 },
 
@@ -44,43 +44,52 @@
 {
     "id": 7,
     "name":"Ernest Hemingway",
-    "image":"https://en.wikipedia.org/wiki/Ernest_Hemingway#/media/File:ErnestHemingway.jpg",
+    "image":"https://imgix.ranker.com/user_node_img/48/951889/original/ernest-hemingway-recording-artists-and-groups-photo-u8?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg",
     "books": "Islands in the Stream"
 },
 
 {
     "id": 8,
-    "name":"Edith Wharton",
-    "image":"https://en.wikipedia.org/wiki/Edith_Wharton#/media/File:Edith_Newbold_Jones_Wharton.jpg",
-    "books": "Glimpses of the Moon"
+    "name":"Harper Lee",
+    "image":"https://imgix.ranker.com/user_node_img/57/1131879/original/harper-lee-people-in-film-photo-u2?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg",
+    "books": "To Kill A Mockingbird"
 },
-
-{
-    "id": 9,
-    "name":"Gertrude Stein",
-    "images":"https://en.wikipedia.org/wiki/Gertrude_Stein#/media/File:Gertrude_Stein_1935-01-04.jpg",
-    "books": "The Autobiography of Alice B. Tolkas"
-},
-
 {
     "id": 10,
     "name":"F. Scott Fitzgerald",
-    "image":"https://en.wikipedia.org/wiki/F._Scott_Fitzgerald#/media/File:F_Scott_Fitzgerald_1921.jpg",
+    "image":"https://imgix.ranker.com/node_img/52/1037377/original/f-scott-fitzgerald-writers-photo-1?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg",
     "books": "This Side of Paradise"
 },
 
 {
     "id": 11,
-    "name":"E.B. White",
-    "image":"https://en.wikipedia.org/wiki/E._B._White#/media/File:EB_White_and_his_dog_Minnie.png",
-    "books": "Charlotte's Web"
+    "name":"Shel Silverstein",
+    "image":"https://imgix.ranker.com/user_node_img/101/2017280/original/shel-silverstein-recording-artists-and-groups-photo-u1?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg",
+    "books": "Where the Sidewalk Ends"
 },
 
 {
     "id": 12,
-    "name":"Octavia E. Butler",
-    "image":"https://en.wikipedia.org/wiki/Octavia_E._Butler#/media/File:Butler_signing.jpg",
-    "books": "Mind of My Mind"
+    "name":"Sylvia Plath",
+    "image":"https://imgix.ranker.com/user_node_img/107/2135022/original/sylvia-plath-recording-artists-and-groups-photo-u2?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg",
+    "books": "The Bell Jar"
+},
+{
+    "id": 13,
+    "name":"William S. Burroughs",
+    "image":"https://imgix.ranker.com/user_node_img/120/2397156/original/william-s-burroughs-photo-u8?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg",
+    "books": "The Jungle"
+},
+{
+    "id": 14,
+    "name":"Martin Luther King Jr.",
+    "image":"https://imgix.ranker.com/user_node_img/77/1532466/original/martin-luther-king-jr-photo-u24?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg",
+    "books": "A Testament of Hope"
+},
+{
+    "id": 15,
+    "name":"Toni Morrison",
+    "image":"https://imgix.ranker.com/user_node_img/114/2260165/original/toni-morrison-people-in-tv-photo-u3?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg",
+    "books": "The Bluest Eye"
 }
-
 ]

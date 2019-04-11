@@ -24,9 +24,7 @@ class App extends Component {
                 <AuthorCard
                   id={author.id}
                   key={author.id}
-                  name={author.name}
                   image={author.image}
-                  books={author.books}
                 />
               ))}
             </Wrapper>
