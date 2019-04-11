@@ -1,1 +1,1 @@
-// export the file here
+export {default} from "./Navbar.js";

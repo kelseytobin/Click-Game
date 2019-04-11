@@ -2,16 +2,14 @@ import React from "react";
 
 function NavBar() {
     return (
-        <div class="navbar-fixed">
-            <nav>
-                <div class="nav-wrapper">
-                <a href="#!" class="brand-logo left">Click an image to begin</a>
-                <a href="#!" class="brand-logo center">Try to click all 18 images to win</a>
-                <a href="#!" class="brand-logo right">Be careful not to click the same one twice</a>
+            <nav className="navbar-fixed">
+                <div className="nav-wrapper">
+                    <li className="brand-logo left">Clicky Game</li>
+                    <li className="brand-logo center">Click an Image to Begin</li>
+                    <li className="brand-logo right">Score Placeholder</li>
                 </div>
             </nav>
-        </div>
-    );
-}
+        );
+    };
 
 export default NavBar;
