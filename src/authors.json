@@ -1,95 +1,95 @@
 [ 
-  {
-    "id": 1,
-    "name":"Mark Twain",
-    "image":"https://jamesostafford.files.wordpress.com/2013/12/mark-twain.jpg",
-    "books": "The Adventures of Huckleberry Finn"
-},
+    {
+        "id": 1,
+        "name":"Mark Twain",
+        "image":"https://jamesostafford.files.wordpress.com/2013/12/mark-twain.jpg",
+        "books": "The Adventures of Huckleberry Finn"
+    },
 
-{
-    "id": 2,
-    "name":"Dr. Seuss",
-    "image":"https://fatgirlinthefitnessworld.files.wordpress.com/2012/03/dr-seuss-himself.jpg",
-    "books": "The Cat in the Hat"
-},
+    {
+        "id": 2,
+        "name":"Dr. Seuss",
+        "image":"https://fatgirlinthefitnessworld.files.wordpress.com/2012/03/dr-seuss-himself.jpg",
+        "books": "The Cat in the Hat"
+    },
 
-{
-    "id": 3,
-    "name":"Louise May Alcott",
-    "image":"https://imgix.ranker.com/node_img/74/1475687/original/louisa-may-alcott-writers-photo-1?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg",
-    "books": "Little Women"
-},
+    {
+        "id": 3,
+        "name":"Louise May Alcott",
+        "image":"https://imgix.ranker.com/node_img/74/1475687/original/louisa-may-alcott-writers-photo-1?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg",
+        "books": "Little Women"
+    },
 
-{
-    "id": 4,
-    "name":"James Baldwin",
-    "image":"https://imgix.ranker.com/node_img/63/1259272/original/james-baldwin-writers-photo-1?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg",
-    "books": "Go Tell It on the Mountain"
-},
+    {
+        "id": 4,
+        "name":"James Baldwin",
+        "image":"https://imgix.ranker.com/node_img/63/1259272/original/james-baldwin-writers-photo-1?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg",
+        "books": "Go Tell It on the Mountain"
+    },
 
-{
-    "id": 5,
-    "name":"John Steinbeck",
-    "image":"https://imgix.ranker.com/node_img/66/1314875/original/john-steinbeck-writers-photo-1?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg",
-    "books": "To A God Unknown"
-},
+    {
+        "id": 5,
+        "name":"John Steinbeck",
+        "image":"https://imgix.ranker.com/node_img/66/1314875/original/john-steinbeck-writers-photo-1?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg",
+        "books": "To A God Unknown"
+    },
 
-{
-    "id": 6,
-    "name":"Maya Angelou",
-    "image":"https://i0.wp.com/www.respectability.org/wp-content/uploads/2018/02/Maya-Angelou-800x1200.jpg?ssl=1",
-    "books": "I Know Why the Caged Bird Sings"
-},
+    {
+        "id": 6,
+        "name":"Maya Angelou",
+        "image":"https://i0.wp.com/www.respectability.org/wp-content/uploads/2018/02/Maya-Angelou-800x1200.jpg?ssl=1",
+        "books": "I Know Why the Caged Bird Sings"
+    },
 
-{
-    "id": 7,
-    "name":"Ernest Hemingway",
-    "image":"https://imgix.ranker.com/user_node_img/48/951889/original/ernest-hemingway-recording-artists-and-groups-photo-u8?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg",
-    "books": "Islands in the Stream"
-},
+    {
+        "id": 7,
+        "name":"Ernest Hemingway",
+        "image":"https://imgix.ranker.com/user_node_img/48/951889/original/ernest-hemingway-recording-artists-and-groups-photo-u8?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg",
+        "books": "Islands in the Stream"
+    },
 
-{
-    "id": 8,
-    "name":"Harper Lee",
-    "image":"https://imgix.ranker.com/user_node_img/57/1131879/original/harper-lee-people-in-film-photo-u2?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg",
-    "books": "To Kill A Mockingbird"
-},
-{
-    "id": 10,
-    "name":"F. Scott Fitzgerald",
-    "image":"https://imgix.ranker.com/node_img/52/1037377/original/f-scott-fitzgerald-writers-photo-1?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg",
-    "books": "This Side of Paradise"
-},
+    {
+        "id": 8,
+        "name":"Harper Lee",
+        "image":"https://imgix.ranker.com/user_node_img/57/1131879/original/harper-lee-people-in-film-photo-u2?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg",
+        "books": "To Kill A Mockingbird"
+    },
+    {
+        "id": 10,
+        "name":"F. Scott Fitzgerald",
+        "image":"https://imgix.ranker.com/node_img/52/1037377/original/f-scott-fitzgerald-writers-photo-1?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg",
+        "books": "This Side of Paradise"
+    },
 
-{
-    "id": 11,
-    "name":"Shel Silverstein",
-    "image":"https://imgix.ranker.com/user_node_img/101/2017280/original/shel-silverstein-recording-artists-and-groups-photo-u1?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg",
-    "books": "Where the Sidewalk Ends"
-},
+    {
+        "id": 11,
+        "name":"Shel Silverstein",
+        "image":"https://imgix.ranker.com/user_node_img/101/2017280/original/shel-silverstein-recording-artists-and-groups-photo-u1?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg",
+        "books": "Where the Sidewalk Ends"
+    },
 
-{
-    "id": 12,
-    "name":"Sylvia Plath",
-    "image":"https://imgix.ranker.com/user_node_img/107/2135022/original/sylvia-plath-recording-artists-and-groups-photo-u2?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg",
-    "books": "The Bell Jar"
-},
-{
-    "id": 13,
-    "name":"William S. Burroughs",
-    "image":"https://imgix.ranker.com/user_node_img/120/2397156/original/william-s-burroughs-photo-u8?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg",
-    "books": "The Jungle"
-},
-{
-    "id": 14,
-    "name":"Martin Luther King Jr.",
-    "image":"https://imgix.ranker.com/user_node_img/77/1532466/original/martin-luther-king-jr-photo-u24?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg",
-    "books": "A Testament of Hope"
-},
-{
-    "id": 15,
-    "name":"Toni Morrison",
-    "image":"https://imgix.ranker.com/user_node_img/114/2260165/original/toni-morrison-people-in-tv-photo-u3?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg",
-    "books": "The Bluest Eye"
-}
+    {
+        "id": 12,
+        "name":"Sylvia Plath",
+        "image":"https://imgix.ranker.com/user_node_img/107/2135022/original/sylvia-plath-recording-artists-and-groups-photo-u2?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg",
+        "books": "The Bell Jar"
+    },
+    {
+        "id": 13,
+        "name":"William S. Burroughs",
+        "image":"https://imgix.ranker.com/user_node_img/120/2397156/original/william-s-burroughs-photo-u8?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg",
+        "books": "The Jungle"
+    },
+    {
+        "id": 14,
+        "name":"Martin Luther King Jr.",
+        "image":"https://imgix.ranker.com/user_node_img/77/1532466/original/martin-luther-king-jr-photo-u24?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg",
+        "books": "A Testament of Hope"
+    },
+    {
+        "id": 15,
+        "name":"Toni Morrison",
+        "image":"https://imgix.ranker.com/user_node_img/114/2260165/original/toni-morrison-people-in-tv-photo-u3?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg",
+        "books": "The Bluest Eye"
+    }
 ]

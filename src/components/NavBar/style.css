@@ -7,3 +7,25 @@ nav .brand-logo {
     color: black;
     font-family:'Pacifico', cursive;
 }
+
+
+/* Media */
+
+@media screen and (max-width: 768px) {
+    nav .brand-logo {
+      font-size: 0.75rem;
+    }
+  
+    .brand-logo a {
+      font-size: 0.75rem;
+    }
+  
+  }
+  
+  @media screen and (max-width: 450px) {
+    .brand-logo {
+      font-size: 0.5rem;
+    }
+  
+  
+  }
