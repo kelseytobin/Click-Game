@@ -1,0 +1,86 @@
+[ 
+  {
+    "id": 1,
+    "name":"Mark Twain",
+    "image":"https://en.wikipedia.org/wiki/Mark_Twain#/media/File:Twain1909.jpg",
+    "books": "The Adventures of Huckleberry Finn"
+},
+
+{
+    "id": 2,
+    "name":"Dr. Seuss",
+    "image":"https://en.wikipedia.org/wiki/Dr._Seuss#/media/File:Ted_Geisel_NYWTS_2_crop.jpg",
+    "books": "The Cat in the Hat"
+},
+
+{
+    "id": 3,
+    "name":"Louise May Alcott",
+    "image":"https://en.wikipedia.org/wiki/Louisa_May_Alcott#/media/File:Louisa_May_Alcott_headshot.jpg",
+    "books": "Little Women"
+},
+
+{
+    "id": 4,
+    "name":"James Baldwin",
+    "image":"https://en.wikipedia.org/wiki/James_Baldwin#/media/File:James_Baldwin_37_Allan_Warren_(cropped).jpg",
+    "books": "Go Tell It on the Mountain"
+},
+
+{
+    "id": 5,
+    "name":"John Steinbeck",
+    "image":"https://en.wikipedia.org/wiki/John_Steinbeck#/media/File:John_Steinbeck_1962.jpg",
+    "books": "To A God Unknown"
+},
+
+{
+    "id": 6,
+    "name":"Maya Angelou",
+    "image":"https://i0.wp.com/www.respectability.org/wp-content/uploads/2018/02/Maya-Angelou-800x1200.jpg?ssl=1",
+    "books": "I Know Why the Caged Bird Sings"
+},
+
+{
+    "id": 7,
+    "name":"Ernest Hemingway",
+    "image":"https://en.wikipedia.org/wiki/Ernest_Hemingway#/media/File:ErnestHemingway.jpg",
+    "books": "Islands in the Stream"
+},
+
+{
+    "id": 8,
+    "name":"Edith Wharton",
+    "image":"https://en.wikipedia.org/wiki/Edith_Wharton#/media/File:Edith_Newbold_Jones_Wharton.jpg",
+    "books": "Glimpses of the Moon"
+},
+
+{
+    "id": 9,
+    "name":"Gertrude Stein",
+    "images":"https://en.wikipedia.org/wiki/Gertrude_Stein#/media/File:Gertrude_Stein_1935-01-04.jpg",
+    "books": "The Autobiography of Alice B. Tolkas"
+},
+
+{
+    "id": 10,
+    "name":"F. Scott Fitzgerald",
+    "image":"https://en.wikipedia.org/wiki/F._Scott_Fitzgerald#/media/File:F_Scott_Fitzgerald_1921.jpg",
+    "books": "This Side of Paradise"
+},
+
+{
+    "id": 11,
+    "name":"E.B. White",
+    "image":"https://en.wikipedia.org/wiki/E._B._White#/media/File:EB_White_and_his_dog_Minnie.png",
+    "books": "Charlotte's Web"
+},
+
+{
+    "id": 12,
+    "name":"Octavia E. Butler",
+    "image":"https://en.wikipedia.org/wiki/Octavia_E._Butler#/media/File:Butler_signing.jpg",
+    "books": "Mind of My Mind"
+}
+
+]
